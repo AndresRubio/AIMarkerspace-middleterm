@@ -1,0 +1,13 @@
+llama-index
+openai
+wandb
+llama-index-callbacks-wandb
+faiss_cpu
+pymupdf
+tiktoken==0.4.0
+sentence-transformers==2.2.2
+pydantic==1.10.11
+llama-index-vector-stores-faiss
+chainlit==0.7.700
+python-dotenv==1.0.0
+requests
