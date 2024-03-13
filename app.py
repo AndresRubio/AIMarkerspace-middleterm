@@ -37,7 +37,7 @@ Think through your response step by step.
 # if storage folder exists and is not empty, load the index from it else from documents
 
 
-@cl.on_chat_start  # marks a function that will be executed at the start of a user session
+@cl.on_chat_start
 async def start_chat():
     load_dotenv()
 
